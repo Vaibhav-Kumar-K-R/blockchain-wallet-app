@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { Manrope } from "next/font/google";
 import "./globals.css";
-import  Toaster  from "@/components/ui/sonner.tsx";
+import  {Toaster}  from "@/components/ui/sonner.tsx";
 import { ThemeProvider } from "@/components/themeprovider.tsx";
 import Footer from "@/components/Footer";
 
